@@ -5,7 +5,7 @@ This projects helps in predicting flight delays using machine learning technique
 2. Flights_Test.csv
 
 
-Implemented on VsCode using python below libraries - 
+Implemented on VS Code using python libraries - 
   matplotlib
   scikit-learn
   numpy
